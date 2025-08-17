@@ -10,7 +10,7 @@ It helps in identifying emotions such as happiness, sadness, anger, fear, etc., 
 
 Even though GitHub may fail to render the notebook preview, you can run it easily in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/main/Emotion_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KashishMaurya/Automate-Emotional-Analysis-of-Textual-Comments-and-Feedback/blob/main/Emotion_analysis.ipynb)
 
 ---
 
